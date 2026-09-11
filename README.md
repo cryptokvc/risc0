@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [parcours documentaire en français](docs/fr/) relie la zkVM RV32IM, les reçus STARK, la récursion et la vérification Groth16 sur EVM.
+
 > [!IMPORTANT]
 > `main` is the development branch.
 > When building applications or running examples, use the [latest release](https://github.com/risc0/risc0/releases) instead.
